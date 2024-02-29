@@ -29,5 +29,7 @@ Para receber algo é necessário o comando. Git pull
 -> git clone https://github.com/4leMagno/curso_git_1.git . 
 
 Remover arquivo do git
+git rm [nome do arquivo]
+
 
 
