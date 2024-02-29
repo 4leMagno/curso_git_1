@@ -31,5 +31,10 @@ Para receber algo é necessário o comando. Git pull
 Remover arquivo do git
 git rm [nome do arquivo]
 
+git log 
+nos mostra as modificações feitas no projeto
+para sair do git log é só apertar "q" quit 
 
+mover ou renomar arquivo 
+git mv == ctrl x 
 
