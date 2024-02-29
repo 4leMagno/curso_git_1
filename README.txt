@@ -42,4 +42,7 @@ git mv css/bannerinicia.css css/banner_inicial.css - assim renomea arquivo
 Desfazendo alterações com o git
 git checkout
 
+git .ignore 
+ignorar arquvios, não faz sentido enviar para o repositorio, rpm npm npx .... .env ... 
+
 
