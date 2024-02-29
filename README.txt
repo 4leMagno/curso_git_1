@@ -37,4 +37,4 @@ para sair do git log é só apertar "q" quit
 
 mover ou renomar arquivo 
 git mv == ctrl x 
-
+git mv css/bannerinicia.css css/banner_inicial.css - assim renomea arquivo
